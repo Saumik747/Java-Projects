@@ -1,0 +1,111 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 16, 2021, 10:09:47 PM
+    Author     : saumik
+*/
+/* *{font-size:20px;} */
+table tr td{border:1px solid black;
+font-size: 20px;}
+
+ ul{
+                list-style-type:none;
+            }
+            
+            .index{
+                border:2px solid black;
+               margin-left:auto;
+               margin-right: auto;
+               display:inline-block;
+               border-radius:25px;
+               padding:10px;
+            }
+            
+            .index h1{
+                margin-left:30px;
+                
+            }
+            
+            
+            .output .table{
+                margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+                max-width:900px;
+            }
+
+            .output h3 a{
+                /* text-align: center; */
+                padding:10px;
+                /* background-color:royalblue; */
+            }
+            
+/*doGET()*/
+.pracs1{
+  
+    
+     margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+                max-width:900px;
+                padding:30px;
+                /* font-size:24px; */
+                
+}
+
+/*jstl*/
+.jstl{
+      margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+                max-width:500px;
+                padding:30px;
+}
+
+.jstl table{
+      margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+               
+               
+}
+
+.login{
+     margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+                max-width:1000px;
+                padding:30px;
+}
+
+
+
+.register{
+     margin-left:auto;
+                margin-right:auto;
+                border:1px solid black;
+                max-width:700px;
+                padding:20px;
+               
+                text-align: center;
+}
+.register div{
+     font-size:20px;
+}
+.nav ul{text-align:center;}
+.nav ul li{
+    float:left;
+    padding:10px;
+    margin:5px;
+}
+
+@media print{
+    .print{
+        display:none;
+    }
+}
+
+
